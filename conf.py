@@ -307,8 +307,6 @@ texinfo_documents = [
 # texinfo_no_detailmenu = False
 
 ##############################################################################
-cmd_file= os.getcwd() + "./version.bat"
-os.system(cmd_file)
 _v = open(os.getcwd() + "/VERSION").read()
 #version = str(_v)
 #release = str(_v)
