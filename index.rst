@@ -17,7 +17,7 @@ This document introduces how to install PyJEM, FAQ, and simple script code.
    Log/Log
    Forum/Tutorial
    Tutorial/*
-   Interfaces/*
+   Interfaces/
 
 
 Indices and tables
